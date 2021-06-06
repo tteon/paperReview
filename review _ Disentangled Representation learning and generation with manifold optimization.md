@@ -104,8 +104,8 @@ left-hand ; auto-encoder objective , right-hand ; PCA objective (St-RKM)
 
 Review 
 
-비전공자인 나에겐 다소 어려운 수학적 지식이 많이 담겨있어 해석이 어려웠으나 논문의 저자가 대략 어떤것을 문제정의하고 그 문제에 대한 해결을 어떤 방식으로 했는지에 대한 맥락은 이해할 수 가 있었다.
 
+Manifold learning 에 대해 대략적인 관심만 있었으나 application , mathmatics aspect 에서는 처음 본 논문, 특히 joint training 을 하여 optimial space 를 도출해내어 최종적으로 ELBO 와 연관짓는게 인상 깊었음. 
 
 
 
