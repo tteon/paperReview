@@ -1,6 +1,6 @@
 Disentangled Representation learning and generation with manifold optimization
 
-[paper](https://arxiv.org/abs/2006.07046)
+[paper link](https://arxiv.org/abs/2006.07046)
 
 Abstract
 
