@@ -40,7 +40,8 @@ HCDIR
 
 - 모델은 크게 3가지 파트로 나눠져 있음.
 
-  ![image-20210607180952924](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210607180952924.png)
+![image](https://user-images.githubusercontent.com/52625664/120994929-ed5e6700-c7bf-11eb-82ae-45fe1d82ec73.png)
+
 
   - Latent Feature in Insurance Domain
 
