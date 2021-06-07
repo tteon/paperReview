@@ -36,7 +36,7 @@ Problem Formulation
 
 HCDIR
 
-![image-20210607180200082](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210607180200082.png)
+![image](https://user-images.githubusercontent.com/52625664/120995006-f9e2bf80-c7bf-11eb-8c36-0a1b053f8fd8.png)
 
 - 모델은 크게 3가지 파트로 나눠져 있음.
 
