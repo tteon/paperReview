@@ -54,7 +54,7 @@
 
   
 
-  - ![image-20210815121931187](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210815121931187.png)
+![image](https://user-images.githubusercontent.com/52625664/129466022-8c836053-195d-4305-af3d-f7cacac0291f.png)
 
   
 
@@ -69,7 +69,7 @@
 
 
 
-![image-20210815120403281](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210815120403281.png)
+![image](https://user-images.githubusercontent.com/52625664/129466024-63a249fd-ddc6-4fda-b361-6d84e11191a7.png)
 
 
 
