@@ -6,8 +6,7 @@
 
 
 
-![image-20210815115840335](C:\Users\user\AppData\Roaming\Typora\typora-user-images\image-20210815115840335.png)
-
+![image](https://user-images.githubusercontent.com/52625664/129466017-55b70f50-248b-4628-935d-8f09866b16ff.png)
 
 
 3줄 요약
