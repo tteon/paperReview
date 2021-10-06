@@ -6,7 +6,8 @@ Problem definition ; 기존 auto-encoder based architecture 은 graph clustering
 
 
 
-![image-20211006180846377](C:\Users\bitnine\AppData\Roaming\Typora\typora-user-images\image-20211006180846377.png)
+![image](https://user-images.githubusercontent.com/52625664/136183617-595ad940-6643-4b57-9884-b118d75f771a.png)
+
 
 architecture of EGAE
 
@@ -49,7 +50,8 @@ $$
 
 back propagation을 활용하기 위해서 다음 알고리즘 활용함.(closed-form solution ...! )
 
-![image-20211006190724897](C:\Users\bitnine\AppData\Roaming\Typora\typora-user-images\image-20211006190724897.png)
+![image](https://user-images.githubusercontent.com/52625664/136183684-67ed8508-e14c-4a7d-b73d-c686820fc09b.png)
+
 
 **Background**
 
@@ -128,12 +130,10 @@ Experiment
 
 짜잔...
 
-![image-20211006190820626](C:\Users\bitnine\AppData\Roaming\Typora\typora-user-images\image-20211006190820626.png)
+![image](https://user-images.githubusercontent.com/52625664/136183750-d0116fa5-4cfd-44e0-8559-b8be6c3dbd03.png)
 
 
-
-![image-20211006190839224](C:\Users\bitnine\AppData\Roaming\Typora\typora-user-images\image-20211006190839224.png)
-
+![image](https://user-images.githubusercontent.com/52625664/136183780-887404b1-4478-4bcf-b0aa-c2aaeda2b205.png)
 
 
 최종적으로 clustering evaluation measurement 인 ACC NMI ARI 에서 좋은 성능을 보였다고 합니다...! 
