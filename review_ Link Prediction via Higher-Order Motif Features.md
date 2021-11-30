@@ -29,8 +29,7 @@ Earth Mover’s Distance (EMD) and Kullback– Leibler Divergence (KLD) between 
 
 
 
-| ![image](https://user-images.githubusercontent.com/52625664/144146699-4a3d83eb-e6b9-463f-8bef-0ff1ac60fd77.png) | 
-![image](https://user-images.githubusercontent.com/52625664/144146707-7397838c-6a65-40f5-b487-d0445e944c19.png) |
+| ![image](https://user-images.githubusercontent.com/52625664/144146699-4a3d83eb-e6b9-463f-8bef-0ff1ac60fd77.png) | ![image](https://user-images.githubusercontent.com/52625664/144146707-7397838c-6a65-40f5-b487-d0445e944c19.png)                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                                                                                             |
 Negative sampling 측면에서 출발 노드부터 도착 노드까지 몇 path(hop) 이 후 연결되어 있지 않은 노드 간의 link 를 negative 라 지정해주는지에 대해 성능 차이가 있음을 보임.
