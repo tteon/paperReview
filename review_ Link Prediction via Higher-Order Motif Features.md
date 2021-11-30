@@ -6,7 +6,7 @@
 
 - Motif hyperparameter (k-motif) 에 따른 성능 중 3,4,5 motif 의 성능이 잘 나옴. 이 때 3,4,5 모두 합친 feature은 오히려 성능을 저하시키는 점 관찰할 수 있었음.
 
-| ![image-20211201084816806](C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20211201084816806.png) | The first graph represents the co-purchase network of products on Amazon. It is the graph upon which the “customers who bought this also bought that” feature is built. The nodes are products, and an edge between any two nodes shows that the two products have been frequently bought together. In this application domain, link prediction tries to model the creation of an association between two products. In other words, it can help identify hidden relationships between products, which can then be used in a customer-facing recommendation system |
+| ![image-20211201084907223](C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20211201084907223.png) | The first graph represents the co-purchase network of products on Amazon. It is the graph upon which the “customers who bought this also bought that” feature is built. The nodes are products, and an edge between any two nodes shows that the two products have been frequently bought together. In this application domain, link prediction tries to model the creation of an association between two products. In other words, it can help identify hidden relationships between products, which can then be used in a customer-facing recommendation system |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image-20211201084753185](C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20211201084753185.png) | [CondMat dataset descrpition](http://www.casos.cs.cmu.edu/tools/datasets/external/cond-mat/SNA/Cond_Mat.html)CondMat, is a graph which represents a subset of authorship relations between authors and publications in the arXiv condensed matter physics section. Nodes are authors (first set) or papers (second set). An edge represents that an author has written a given paper. Link prediction can identify whether an author is a likely contributor to a research paper, for instance, to identify missing records. |
 | ![image-20211201084805826](C:\Users\Win10\AppData\Roaming\Typora\typora-user-images\image-20211201084805826.png) | [AstroPh dataset description](https://snap.stanford.edu/data/ca-AstroPh.html)AstroPh, is a collaboration graph. In particular, it contains data about scientific collaboration between authors in the arXiv astrophysics section. Each node in the graph represents an author of a paper, and an edge between two authors represents a common publication. |
@@ -30,6 +30,7 @@ Negative sampling 측면에서 출발 노드부터 도착 노드까지 몇 path(
 |                                                              |                                                              |
 
 
+![image](https://user-images.githubusercontent.com/52625664/144146495-23cbe680-6b4d-4cb9-a33d-4db739085f3f.png)
 
 
 
